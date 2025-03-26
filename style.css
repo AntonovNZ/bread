@@ -23,7 +23,7 @@ button{
 }
 button:hover{
     background-color: #ffffff;
-    color: #ffffff;
+    color: #404246;
     transition: 1s;
 }
 html, body {
