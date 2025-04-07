@@ -24,7 +24,7 @@ button{
 button:hover{
     background-color: #ffffff;
     color: #404246;
-    transition: 12s;
+    transition: 1s;
 }
 html, body {
     margin: 0;
