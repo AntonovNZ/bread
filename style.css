@@ -25,9 +25,13 @@ button:hover{
     background-color: #ffffff;
     color: #404246;
     transition: 1s;
+    border-radius: 15px;
 }
 html, body {
     margin: 0;
     padding: 0;
     width: 100%;
+}
+h1{
+    margin: auto;
 }
